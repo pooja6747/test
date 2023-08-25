@@ -1,5 +1,0 @@
-{{#user}}
-Name: Pooja
-Skills: HTML, CSS, JS, Bootstrap, ReactJs, NodeJs, MongoDB
-Email: poojaambi8@gmail.com
-{{/user}}
